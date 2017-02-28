@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    height: 500px;
+    padding: 20px;
+    font-family: verdana;
+     text-align: center;
+
+    background-color: #66ffd9;
+}
+ 
+#header {
+    width: 700px;
+    color: maroon;
+    font-size: 32px;
+    padding: 10px 10px 10px 0px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid green;
+     text-align: center;
+    
+}
+ 
+#footer {
+    border-top: 1px solid green;
+     text-align: center;
+    margin-top: 20px;
+    color: #336699;
+    padding-top: 10px;    
+}
